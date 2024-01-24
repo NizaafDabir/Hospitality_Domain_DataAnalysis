@@ -50,6 +50,8 @@ Created Measures using Data Analysis Expression (DAX) in Power BI. Measures and 
 
 Dashboard is created after creating the DAX measures. For creating this Dashboard Power BI Destop is used.
 
+![Screenshot 2024-01-24 152848](https://github.com/NizaafDabir/Hospitality_Domain_DataAnalysis/assets/110449627/ad5400e9-9fd4-4d79-b027-f62bb89f7456)
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Reference
