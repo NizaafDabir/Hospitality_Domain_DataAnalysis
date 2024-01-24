@@ -16,7 +16,7 @@ Data Modeling is performed on all the Datasets using Power BI. Datasets are bein
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Data Analysis Expression (DAX)
-Created Measures using Data Analysis Expression (DAX) and calculated coloumns in Power BI. Measures and calculated coloumns created are as follows :
+Created Measures using Data Analysis Expression (DAX) in Power BI. Measures and calculated coloumns created are as follows :
 
 - Revenue: `SUM(fact_bookings[revenue_realized])`
 - Total Bookings: `COUNT(fact_bookings[booking_id])`
@@ -45,3 +45,17 @@ Created Measures using Data Analysis Expression (DAX) and calculated coloumns in
 - Realisation WoW Change %: `A week-over-week change for Realisation`
 - DSRN WoW Change %: `A week-over-week change for DSRN`
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## Dashboard
+
+Dashboard is created after creating the DAX measures. For creating this Dashboard Power BI Destop is used.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Reference
+
+* Channel Name : codebasics
+* Link to the Project : [https://www.youtube.com/watch?v=4QkYy1wANXA](https://www.youtube.com/watch?v=tT4V7zguCnc&t=33s)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizaaf-dabir-524596203/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NizaafDabir)
